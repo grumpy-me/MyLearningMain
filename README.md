@@ -5,7 +5,7 @@
       "essential": true,
       "name": "Core Package",
       "description": "Provides core functionalities required to run the app.",
-      "path": "/packages/core",
+      "path": "https://raw.githubusercontent.com/grumpy-me/MyLearningMain/refs/heads/main/myGif.gif",
       "size": 1048576,
       "created": 1719945600.0
     },
