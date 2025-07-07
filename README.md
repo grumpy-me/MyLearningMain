@@ -8,15 +8,6 @@
       "path": "https://raw.githubusercontent.com/grumpy-me/MyLearningMain/refs/heads/main/myGif.gif",
       "size": 1153434,
       "created": 1719945600.0
-    },
-    {
-      "id": "com.example.package2",
-      "essential": false,
-      "name": "Optional Feature Pack",
-      "description": "Adds optional features to enhance user experience.",
-      "path": "/packages/optional",
-      "size": 524288,
-      "created": 1719869200.0
     }
   ]
 }
