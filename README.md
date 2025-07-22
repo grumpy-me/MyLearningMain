@@ -1,7 +1,7 @@
 {
   "packages": [
     {
-      "id": "com.example.package1",
+      "id": "com.example.package1_this_is_the_gif",
       "essential": true,
       "name": "Core Package",
       "description": "Provides core functionalities required to run the app.",
