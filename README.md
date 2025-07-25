@@ -15,7 +15,7 @@
       "name": "Core Package - Personal Pic",
       "description": "Provides core functionalities required to run the app.",
       "path": "https://raw.githubusercontent.com/grumpy-me/MyLearningMain/refs/heads/main/DSCF2829.jpg",
-      "size": 17096779,
+      "size": 20096779,
       "created": 1753340590.0
     }
   ]
